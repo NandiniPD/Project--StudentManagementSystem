@@ -1,5 +1,4 @@
 # Student Management System
-
 A comprehensive student management system built with Python and MySQL database.
 
 ## Project Overview
